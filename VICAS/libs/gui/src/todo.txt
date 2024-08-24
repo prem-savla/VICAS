@@ -1,3 +1,0 @@
-make the submit form logic 
-then store it into history
-when opening a history display it
