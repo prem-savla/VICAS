@@ -13,7 +13,7 @@ Sabka Saath Sabka VICAS
 
 ## Installation
 ```bash
-git clone https://github.com/nishantak/VICAS.git && cd VICAS
+git clone https://github.com/prem-savla/VICAS.git && cd VICAS
 pip install -r requirements
 python main.py  # linux uses python3 and pip3
 ```
